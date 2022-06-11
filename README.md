@@ -13,3 +13,4 @@
 |        More than 75 Marks                  |         [Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem)                 |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/more-than-75-marks.sql)                   |
 |        Name of Employees                   |         [Problem](https://www.hackerrank.com/challenges/name-of-employees/problem)                  |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/name-of-employees.sql)                    |
 |        Salary of Employees                 |         [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem)                |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/salary-of-employees.sql)                  |
+|        Full Score                          |                  (https://www.hackerrank.com/challenges/full-score/problem)
