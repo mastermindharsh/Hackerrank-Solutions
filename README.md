@@ -19,4 +19,7 @@
 |        Japan Population                    |         [Problem](https://www.hackerrank.com/challenges/japan-population/problem)                   |
 |        Revising Aggregate Sum              |         [Problem](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)          |
 |        Revising Aggregations - Averages    |         [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) |
-|        
+|        Average Population                  |                  (https://www.hackerrank.com/challenges/average-population/problem)
+|        Population Density Difference       |                  (https://www.hackerrank.com/challenges/population-density-difference/problem)
+|        The Blunder                         |                  (https://www.hackerrank.com/challenges/the-blunder/problem)
+|
