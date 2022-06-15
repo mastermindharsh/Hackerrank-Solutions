@@ -17,3 +17,4 @@
 |        Type of Triangle                    |         [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)              |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/type-of-triangle.sql)                     |
 |        The PADS                            |         [Problem](https://www.hackerrank.com/challenges/the-pads/problem)                           |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/the-pads.sql)                                                                                                               |
 |        Japan Population                    |         [Problem](https://www.hackerrank.com/challenges/japan-population/problem)
+|        Revising Aggregate Sum              |         [Problem](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)
