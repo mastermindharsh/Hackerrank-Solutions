@@ -22,3 +22,4 @@
 |        Average Population                  |         [Problem](https://www.hackerrank.com/challenges/average-population/problem)                 |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/average-population.sql)                   |
 |        Population Density Difference       |         [Problem](https://www.hackerrank.com/challenges/population-density-difference/problem)      |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/population-density-difference.sql)        |
 |        The Blunder                         |         [Problem](https://www.hackerrank.com/challenges/the-blunder/problem)                        |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/the-blunder.sql)                          |
+|        
