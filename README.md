@@ -25,3 +25,6 @@
 |        Weather Observation Station 13      |         [Problem](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)     |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/weather-observation-station-13.sql)       |
 |        Weather Observation Station 14      |         [Problem](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)     |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/weather-observation-station-14.sql)       | 
 |        Top Earners                         |         [Problem](https://www.hackerrank.com/challenges/earnings-of-employees/problem)
+|        Weather Observation Station 2       |                  (https://www.hackerrank.com/challenges/weather-observation-station-2/problem)
+|        Weather Observation Station 15      |                  (https://www.hackerrank.com/challenges/weather-observation-station-15/problem)
+|        
