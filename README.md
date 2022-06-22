@@ -27,4 +27,4 @@
 |        Top Earners                         |         [Problem](https://www.hackerrank.com/challenges/earnings-of-employees/problem)
 |        Weather Observation Station 2       |                  (https://www.hackerrank.com/challenges/weather-observation-station-2/problem)
 |        Weather Observation Station 15      |                  (https://www.hackerrank.com/challenges/weather-observation-station-15/problem)
-|        
+|        Weather Observation Station 16      |                  (https://www.hackerrank.com/challenges/weather-observation-station-16/problem)
