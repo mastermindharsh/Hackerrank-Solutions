@@ -24,7 +24,8 @@
 |        The Blunder                         |         [Problem](https://www.hackerrank.com/challenges/the-blunder/problem)                        |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/the-blunder.sql)                          |
 |        Weather Observation Station 13      |         [Problem](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)     |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/weather-observation-station-13.sql)       |
 |        Weather Observation Station 14      |         [Problem](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)     |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/weather-observation-station-14.sql)       | 
-|        Top Earners                         |         [Problem](https://www.hackerrank.com/challenges/earnings-of-employees/problem)
-|        Weather Observation Station 2       |                  (https://www.hackerrank.com/challenges/weather-observation-station-2/problem)
-|        Weather Observation Station 15      |                  (https://www.hackerrank.com/challenges/weather-observation-station-15/problem)
-|        Weather Observation Station 16      |                  (https://www.hackerrank.com/challenges/weather-observation-station-16/problem)
+|        Top Earners                         |         [Problem](https://www.hackerrank.com/challenges/earnings-of-employees/problem)              |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/earnings-of-employees.sql)                |
+|        Weather Observation Station 2       |         [Problem](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)      |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/weather-observation-station-2.sql)        |
+|        Weather Observation Station 15      |         [Problem](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)     |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/weather-observation-station-15.sql)       |
+|        Weather Observation Station 16      |         [Problem](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)     |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/weather-observation-station-16.sql)       |
+|
