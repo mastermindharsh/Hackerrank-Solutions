@@ -29,3 +29,8 @@
 |        Weather Observation Station 15      |         [Problem](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)     |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/weather-observation-station-15.sql)       |
 |        Weather Observation Station 16      |         [Problem](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)     |       [Solution](https://github.com/mastermindharsh/Hackerrank-Solutions/blob/main/SQL/weather-observation-station-16.sql)       |
 |        Weather Observation Station 17      |         [Problem](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)
+|        Revising Aggregations - The Count   |                  (https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)
+|        Population Census                   |                  (https://www.hackerrank.com/challenges/asian-population/problem)
+|        African Cities                      |                  (https://www.hackerrank.com/challenges/african-cities/problem)
+|        Average Population of Each Continent|                  (https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)
+|
